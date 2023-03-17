@@ -1,3 +1,4 @@
 *.npy
 .DS_Store
 .ipynb_checkpoints/EEG_loading-checkpoint.ipynb
+untitled_project
